@@ -1,0 +1,2 @@
+Java have JRE(Java Runtime Environment) which is provide us a same environment to run the program in different platforms
+which means we write program once and we can run as many as platform we want. 
